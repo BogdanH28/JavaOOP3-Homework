@@ -4,15 +4,6 @@
     <list default="true" id="be8deccc-93a8-4651-ac96-e0067dd4a2ea" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/phoneHomework_v.4/siit/phoneHomework/Contact.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/phoneHomework_v.4/siit/phoneHomework/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/phoneHomework_v.4/siit/phoneHomework/Oneplus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/phoneHomework_v.4/siit/phoneHomework/Oneplus3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/phoneHomework_v.4/siit/phoneHomework/Oneplus6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/phoneHomework_v.4/siit/phoneHomework/Phone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/phoneHomework_v.4/siit/phoneHomework/Samsung.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/phoneHomework_v.4/siit/phoneHomework/SamsungNote9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/phoneHomework_v.4/siit/phoneHomework/SamsungS9.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -260,7 +251,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542819018729" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542819298507" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
